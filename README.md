@@ -2,7 +2,7 @@
 
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA7A7,15:FFE08C,30:FAED7D,50:B7F0B1,70:B2EBF4,85:B2CCFF,100:D1B2FF&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
     
 <!-- Title Typing Effect -->
@@ -29,7 +29,7 @@
 <br><br><br><br>
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D1B2FF,15:B2CCFF,30:B2EBF4,50:B7F0B1,70:FAED7D,85:FFE08C,100:FFA7A7&height=100&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 
