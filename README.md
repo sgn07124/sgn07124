@@ -20,8 +20,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgn07124&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sgn07124"/> -->
 
-<!-- My snake -->
-<img src="https://github.com/sgn07124/sgn07124/blob/output/mysnake.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->
