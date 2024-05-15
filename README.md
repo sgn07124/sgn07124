@@ -1,4 +1,4 @@
-# Kimkyeongho😊
+# Kimkyungho😊
 
 <div align="center">
 <!-- Header banner -->
