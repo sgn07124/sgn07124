@@ -1,63 +1,81 @@
-# Kimkyungho😊
+# Hi there, I'm Kim Kyungho 👋
 
-<div align="center">
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA7A7,15:FFE08C,30:FAED7D,50:B7F0B1,70:B2EBF4,85:B2CCFF,100:D1B2FF&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br><br>
-    
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A612&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Kyungho+Kim" alt="Typing SVG" /></a>
-<br>
-<div align="center">  
-<br>
-<!-- My CV/resume -->
+### Backend Developer using Java & Spring
 
-<br><br>
-<div align="center">
-<!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgn07124&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=sgn07124&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sgn07124&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sgn07124"/> -->
+현재의 역량을 기반으로 실질적인 성과를 내는 것을 목표로 하고 있습니다.
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <div>Back End</div><p></p>
-    &nbsp<img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+---
 
+### 🛠️ Tech Stack
+
+<table>
+    <tr>
+        <td> Language </td>
+        <td><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    </tr>
+    <tr>
+        <td> Framework </td>
+        <td> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> </td>
+    </tr>
+    <tr>
+        <td> ORM </td>
+        <td> <img src="https://camo.githubusercontent.com/ee58d86c693a91a752ed9816c2767d03d9f91191e19670b0149ac7ba0bba0a9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f535052494e472044415441204a50412d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d68696265726e617465266c6f676f436f6c6f723d7768697465"> </td>
+    </tr>
+    <tr>
+        <td> Database </td>
+        <td> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> </td>
+    </tr>
+    <tr>
+        <td> Infra </td>
+        <td> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white"> </td>
+    </tr>
+    <tr>
+        <td> CI/CD </td>
+        <td> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> </td>
+    </tr>
+    <tr>
+        <td> Development Tools </td>
+        <td> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> </td>
+    </tr>
+    <tr>
+        <td> Version Control </td>
+        <td> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> </td>
+    </tr>
+</table>
+
+### 💻 Projects
+
+- **[완주율을 높인 프로젝트 & 멘토링 팀원 매칭 플랫폼: Teaming](https://github.com/Teamingg/Backend)**
+    - ERD 설계 및 Swagger로 API 문서화
+    - JWT 정책을 도입하여 HttpOnly 쿠키 인증 방식 적용 및 Redis로 Refresh Token 관리
+    - 회원, 프로젝트 팀, 게시글 관련 기능 및 특정 조건에 따른 신고, 리뷰, 알림 기능 구현
+    - 캐시 성능 개선, 동시 접근 방지를 위한 DB 락 적용, 쿼리 분석 및 개선, 트랜잭션 범위 최소화를 통한 성능 개선 등 수행
+
+- **[소셜 정보들을 저장하고 실천까지 한 번에 관리하는 소셜 액션 플래너: AcTip](https://github.com/sgn07124/SWYP_team1_back)**
+    - 주요 기능 구현 및 Rest API 서버 개발 프로젝트
+    - CI/CD 스크립트 작성 및 배포
+
+ 
+### ✍️ Blogs I Run
+
+1. **[Docs](https://sgn07124.tistory.com/)**  
+   단순한 지식이나 개념을 정리하여 기록하는 공간
+
+2. **[Tech-Log]()**  
+   기술적인 경험과 시행착오, 성능 개선 과정을 기록하는 공간
+
+### 📊 Stats
+
+<div width=50%>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgn07124&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api?username=sgn07124&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />    
 </div>
 
+---
 
-<div align="center">
-    <div>Front End</div><p></p>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+### 📫 Reach Me
 
-<br>
+[Email](mailto:sgn07124@gmail.com)
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=22ABF3" />&nbsp
-</div>
-
-
-<br><br>
-<!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-<br><br><br><br>
-
-<!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D1B2FF,15:B2CCFF,30:B2EBF4,50:B7F0B1,70:FAED7D,85:FFE08C,100:FFA7A7&height=100&section=header&text=&fontSize=0" width="100%"/>
-</div>
 
 
