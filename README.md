@@ -37,7 +37,7 @@
 
 ### 💻 Projects
 
-- **[완주율을 높인 프로젝트 & 멘토링 팀원 매칭 플랫폼: Teaming](https://github.com/Teamingg/Backend)**
+- **[완주율을 높인 프로젝트 & 멘토링 팀원 매칭 플랫폼: Teaming](https://github.com/sgn07124/TeamingBack)**
     - ERD 설계 및 Swagger로 API 문서화
     - JWT 정책을 도입하여 HttpOnly 쿠키 인증 방식 적용 및 Redis로 Refresh Token 관리
     - 회원, 프로젝트 팀, 게시글 관련 기능 및 특정 조건에 따른 신고, 리뷰, 알림 기능 구현
